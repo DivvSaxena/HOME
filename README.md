@@ -2,7 +2,7 @@
 
 <img src="https://www.fabhotels.com/blog/wp-content/uploads/2019/03/1000x650-7.jpg" alt="A Historical Monumnet of My Hometown" width="600px">
 
-<h1>CLick <a href="">Here</a></h1>
+<h1>CLick <a href="https://lambent-froyo-511424.netlify.app/" target="_blank">Here</a></h1>
 
 ## About
 
