@@ -1,4 +1,4 @@
-# Welcome to [Hometown Connect](https://www.hometownconnect.com)
+# Welcome to Hometown Website
 
 <img src="https://www.fabhotels.com/blog/wp-content/uploads/2019/03/1000x650-7.jpg" alt="A Historical Monumnet of My Hometown" width="600px">
 
