@@ -1,0 +1,158 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Gravitas One', cursive;
+    
+}
+
+img {
+    width: 100px;
+}
+.hero{
+    background-image: url("https://www.fabhotels.com/blog/wp-content/uploads/2019/03/1000x650-7.jpg");
+    background-size: cover;
+    height: 600px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    margin: 0px;
+}
+#heading{
+    background: #826969;
+    margin: 150px 0 0 0;
+    padding: 10px;
+    text-shadow: 0 0 10px black;
+}
+#heading-description{
+    background: #826969;
+    padding: 14px 3px 13px 3px;
+    text-shadow: 0 0 5px black;
+    
+}
+#second-section{
+    background: #F1FAEE;
+    margin: 0px;
+    padding-bottom: 15px;
+}
+.activities{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    height: 420px;
+    font-size: 18px;
+}
+.images-activities{
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+    margin: 20px;
+}
+#heading-activities{
+    font-size: 35px;
+    padding: 20px 0 2px 0;
+    margin-top: 0px;
+    text-shadow: 0 0 7px red;
+}
+.item1{
+    background: #cdb4db;
+    margin: 8px;
+}
+.item1:hover{
+    background: #00b4d8;
+}
+.item2{
+    background: #ffba08;
+    margin: 8px;
+}
+.item2:hover{
+    background: #faa307;
+}
+.item3{
+    background: #223843;
+    margin: 8px;
+}
+.item3:hover{
+    background: #eff1f3;
+}
+.item4{
+    background: #e0ff4f;
+    margin: 10px;
+}
+.item4:hover{
+    background: #939597;
+}
+.item5{
+    background: #ebf4f5;
+    margin: 10px;
+}
+.item5:hover{
+    background: #f6d8ae;
+}
+.item6{
+    background: #cdb4db;
+    margin: 10px;
+}
+.item6:hover{
+    background: #00b4d8;
+}
+#guide{
+    display: flex;
+    justify-content: center;
+     animation-name: example;
+     animation-duration: 10s;
+     background: #cb997e;
+}
+@keyframes example{
+    from{background-color:#ffe8d6; }
+    to{background-color: #cb997e;}
+}
+.card{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background: #463F3A;
+     width: 500px;
+     height: 300px;
+     color: whitesmoke;
+     border-bottom: 10px solid #AC9E9E;
+     border-radius: 5px;
+     font-family: 'Happy Monkey', cursive;
+     font-size: 24px;
+     margin: 40px;
+}
+#card-img{
+    width: 200px;
+    margin: 7px;
+}
+#footer{
+    background-image: url("https://media.giphy.com/media/xTiTniuHdUjpOlNo1q/giphy.gif");
+    background-size: cover;
+    height: 200px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#footer-heading{
+    padding: 10px;
+    font-size: 20px;
+     background: #0d3b66;
+}
+
+#footer-heading:hover{
+    background: #40c9ff;
+}
+    
