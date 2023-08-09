@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at saxenadivv@gmail.com or through our social media channels linked on the website.
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at saxenadivv@gmail.com or through our social media channels linked on my profile.
 
 Let's make our hometown an even better place, together! 🏡🌟
 
